@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClienteSemDuplicata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0afd6d24db1ac2b7499b3517fc53c3f52c0d8803")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a321887dd9c48d0457dc925d92d8fc3459558c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClienteSemDuplicata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClienteSemDuplicata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
